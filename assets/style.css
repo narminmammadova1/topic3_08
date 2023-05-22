@@ -20,7 +20,7 @@ left: 2%;}
 
    right: -40px;}
    .box-set2{display: flex;
-    height:230px;
+    /* height:230px; */
 justify-content: space-between;
 flex-direction: row-reverse;
 align-items:end;
